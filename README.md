@@ -84,7 +84,7 @@
 ## 📁 EDA
 
 - 총_지점갯수_확인.ipynb
-![브랜드별 전 지점 갯수](image_flie/coffee_store_count.png)
+![브랜드별 전 지점 갯수](image_file/coffee_store_count.png)
 
 ## 🚀 향후 수집 계획
 1. 15개의 브랜드 지점 외에 다른 카페 수집 예정
