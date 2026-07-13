@@ -84,6 +84,7 @@
 ## 📁 EDA
 
 - 총_지점갯수_확인.ipynb
+
 ![브랜드별 전 지점 갯수](image_file/coffee_store_count.png)
 
 ## 🚀 향후 수집 계획
