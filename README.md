@@ -84,3 +84,10 @@
 ## 📁 EDA
 
 - 총_지점갯수_확인.ipynb
+![브랜드별 전 지점 갯수](image_flie/coffee_store_count.png)
+
+## 🚀 향후 수집 계획
+1. 15개의 브랜드 지점 외에 다른 카페 수집 예정
+2. fastfood_crawling 파일을 만들어 패스트푸드(브랜드 10군데 정도) 전지점 크롤링 예정
+3. 백화점, 아울렛 등 크롤링 예정
+   - 파일명 : department_store_crawling, outlet_crawling 
